@@ -1,7 +1,6 @@
 {
   "projects": {
-    "default": "cicd-63537",
-    "Y": "cicd-63537"
+    "default": "cicd-63537"
   },
   "targets": {},
   "etags": {}
